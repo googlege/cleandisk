@@ -8,7 +8,7 @@ bin/
 .project
 
 # GIT file #
-# .gitignore
+.gitignore
 
 # Log file #
 *.log
